@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Baills Antony</h1>
-  <iframe src="https://giphy.com/embed/YULPJoecGetvtOm1H0" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/transparent-YULPJoecGetvtOm1H0"></a></p>
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/26tn33aiTi1jkl6H6" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/screen-monitor-closeup-26tn33aiTi1jkl6H6">via GIPHY</a></p>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on **Web page for client**
