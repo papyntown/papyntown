@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Baills Antony</h1>
-<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">, I'm Baills Antony</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
 - 🔭 I’m currently working on **Web page for client**
