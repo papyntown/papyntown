@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Java-Script, React, Node js**
 
-- 💬 Ask me about **react, vue and gasp**
-
 - 📫 How to reach me **antony.baills66@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
