@@ -1,5 +1,5 @@
 <h1 align="center">Salut<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" max-height="10px" style="width: 30px; display: inline-block;" data-target="animated-image.originalImage">, Je suis Baills Antony </h1>
-<h3 align="center">Un developpeur front-end spécialiser en Rect et NextJs </h3>
+<h3 align="center">Un developpeur front-end spécialiser en React et NextJs </h3>
 
 - 🔭 Vous pouvez observez une partie de mes travaux sur mon portofolio : **https://ab-cv.vercel.app/**
 
