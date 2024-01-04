@@ -1,5 +1,5 @@
 <h1 align="center"> Baills Antony </h1>
-<h3 align="center">Un developpeur front-end spécialiser en React et NextJs </h3>
+<h3 align="center">Un developpeur front-end spécialisé en React et NextJs </h3>
 
 - 🔭 Vous pouvez observez une partie de mes travaux sur mon portofolio : **https://ab-cv.vercel.app/**
 
